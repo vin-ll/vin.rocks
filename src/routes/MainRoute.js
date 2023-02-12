@@ -31,7 +31,7 @@ function MainRoute() {
               reliability is something I do as a hobby.
             </Paragraph>
             <Paragraph>
-              I specialise in web development and I am currently learning Java to expand my skillset.
+              I specialise in web development and I am currently learning Rust to expand my skillset.
             </Paragraph>
             <Paragraph>
               If you want to contact me, you can do so by visiting my{" "}
