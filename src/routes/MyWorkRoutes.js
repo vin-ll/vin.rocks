@@ -10,6 +10,13 @@ const projectArray = [
     description: "My personal portfolio website made with ReactJS",
     dotColor: "#f0e035",
   },
+  {
+    name: "port_sniffer_cli",
+    link: "https://github.com/vin-ll/port_sniffer_cli",
+    language: "Rust",
+    description: "A port sniffer made with Rust",
+    dotColor: "#dea584",
+  },
 ];
 
 function MyWorkRoute() {
