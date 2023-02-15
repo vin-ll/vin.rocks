@@ -43,7 +43,7 @@ function MyWorkRoute() {
               {projectArray.map((item, index) => (
                 <a href={item.link} className="mb-5" key={index}>
                   <div className="flex max-h-42 flex-col md:flex-row border rounded-xl">
-                    <div className="flex flex-col border-bottom-proj border-right py-10 px-5">
+                    <div className="flex flex-col border-bottom-proj border-right py-8 px-5">
                       <h5 className="text-md font-thin text-gray-200">
                         <code>name</code>
                       </h5>
