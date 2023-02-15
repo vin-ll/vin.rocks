@@ -18,7 +18,7 @@ const skillsArray = [
         name: "Rust",
         type: "Backend",
         use: "I am currently learning Rust and I plan to use it for my backend projects.",
-        dotColor: "#e23a26",
+        dotColor: "#dea584",
     },
     {
         name: "NodeJS",
