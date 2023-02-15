@@ -11,7 +11,7 @@ const projectArray = [
     dotColor: "#f0e035",
   },
   {
-    name: "port_sniffer_cli",
+    name: "Port Sniffer",
     link: "https://github.com/vin-ll/port_sniffer_cli",
     language: "Rust",
     description: "A port sniffer made with Rust",
