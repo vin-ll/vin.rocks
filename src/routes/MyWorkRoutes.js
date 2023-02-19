@@ -4,6 +4,13 @@ import Sidebar from "../components/Sidebar";
 import Header from "../components/Header";
 const projectArray = [
   {
+    name: "UPTIMESPY",
+    link: "https://github.com/vin-ll/uptimespy",
+    language: "JavaScript",
+    description: "A website monitoring tool made with ReactJS",
+    dotColor: "#f0e035",
+  },
+  {
     name: "vin.rocks",
     link: "https://github.com/vin-ll/vin.rocks",
     language: "JavaScript",
